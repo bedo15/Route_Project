@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+data/books_raw.json
+data/chunks.json
+data/faiss.index
+data/*.pkl
+venv/
+.venv/
